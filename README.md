@@ -16,7 +16,7 @@ The dashboard is designed with a premium, sleek **AMOLED Black theme**, featurin
 
 ---
 
-## 📂 Project Organization
+## 📂 Project Organization 
 
 All 8 placement milestone projects are organized cleanly within the `projects/` directory:
 
